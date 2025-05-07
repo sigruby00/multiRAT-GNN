@@ -1,8 +1,7 @@
 import os
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-DATABASE_UR = "postgresql://ruby:0537@10.243.76.25/ieee_journal"
-# DATABASE_UR = "your_postgresql_database_uri_here"
+DATABASE_UR = "your_postgresql_database_uri_here"
 
 BASE_DIR = os.path.dirname(current_dir)
 EXATA_DIR = os.path.join(BASE_DIR, "_simulation_files")

@@ -1,0 +1,16 @@
+src/_bak
+src/_simulation_files
+src/_trained_model
+src/predictors
+src/results_ict_express
+src/simulation
+src/train_results_csv
+src/visuallization
+
+src/utils/paths_my.py
+src/models/graph_model_my.py
+data/
+
+.DS_Store
+__pycache__
+
