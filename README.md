@@ -39,7 +39,7 @@ The dataset is generated from the **EXata simulator** for multi-RAT scenarios.
 
 Download the dataset from the following link:
 
-🔗 [Download from Dropbox](https://drive.google.com/drive/folders/14UZ4LrYjAf6b1xADC4gA1hc9eVSKvsNu?usp=share_link)
+🔗 [Download from Google Drive](https://drive.google.com/drive/folders/14UZ4LrYjAf6b1xADC4gA1hc9eVSKvsNu?usp=share_link)
 
 ### ⬇️ Import into PostgreSQL
 
